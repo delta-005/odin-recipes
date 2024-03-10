@@ -1,4 +1,4 @@
-# odin-recipes
+#recipes
 Project to test my basic HTML 
 
 This is a small project to test my basic HTML I've learned till now
